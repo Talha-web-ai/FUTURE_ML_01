@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+prophet
+streamlit
+jupyterlab
+xgboost
+shap
+python-dotenv
